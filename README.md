@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">List of Open Source organizations participating in <b>GSoC</b> having <b>Web Development</b> projects based on <br> <b>React</b>, <b>React Native</b>, <b>HTML</b>, <b>CSS</b>, <b>Vue</b> and <b>JavaScript</b>📝<p>
+<p align="center">List of Open Source organizations participating in I am doing a test<b>GSoC</b> having <b>Web Development</b> projects based on <br> <b>React</b>, <b>React Native</b>, <b>HTML</b>, <b>CSS</b>, <b>Vue</b> and <b>JavaScript</b>📝<p>
 
 <br>
   
